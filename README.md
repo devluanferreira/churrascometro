@@ -19,7 +19,7 @@ com base nas informações seguintes:
 
 ![alt text](https://github.com/ferreiradv/churrascometro/blob/master/assets/img2.png)
 
-# Tecnologias utilizadas
+# O'Que foi utilizado:
 
 <ul>
   <li>HTML</li>
