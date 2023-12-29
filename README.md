@@ -1,6 +1,6 @@
 # churrascometro
 Projeto desenvolvido no curso do ProgBR
-
+link: https://luancarlospng.github.io/churrascometro/
 <p>
  <a href="#Sobre-o-Projeto">Sobre</a> |
  <a href="#Tecnologias-utilizadas">Tecnologias utilizadas</a> |
